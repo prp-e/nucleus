@@ -19,3 +19,13 @@ All weights are available at [HuggingFace](https://huggingface.co/NucleusOrg/Nuc
 ## Donations
 
 We train and make these models with personal money. We need investment and funding for continue this process, but you know what is cooler than an angry investor? A good community. Being Iranian resident, we are not able to provide PayPal links, but here are crypto wallets for you to show us your generosity. 
+
+### USDT (TRC20)
+
+```
+```
+
+### USDT (ERC20)
+
+```
+```
