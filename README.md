@@ -10,7 +10,7 @@ _RESERVED_
 
 | Model | Notebook |
 |:------:|:------------:|
-
+|[Nucleus 1B]()|        |
 ## Reproducability
 
 ## Donations
