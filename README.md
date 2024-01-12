@@ -14,4 +14,6 @@ _RESERVED_
 
 ## Reproducability
 
+All weights are available at [HuggingFace](https://huggingface.co/NucleusOrg/Nucleus-1B-alpha-1) and using proper mistral training setup, can be reproduced. Also, we suggest you study our [model card]() as well.
+
 ## Donations
