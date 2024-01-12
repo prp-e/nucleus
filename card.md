@@ -68,7 +68,7 @@ __Repetition Penalty__: Since most of these models like to repeat themselves, ju
 
 ## Our Team
 
-* Muhammadreza Haghiri ([[X (formerly Twitter)](https://twitter.com/haghiri_ai) - [Website](https://haghiri75.com/en) - [Github](https://github.com/prp-e) - [LinkedIn](https://www.linkedin.com/in/muhammadreza-haghiri-1761325b))
+* Muhammadreza Haghiri ([X (formerly Twitter)](https://twitter.com/haghiri_ai) - [Website](https://haghiri75.com/en) - [Github](https://github.com/prp-e) - [LinkedIn](https://www.linkedin.com/in/muhammadreza-haghiri-1761325b))
 * Mahi Mohrechi ([Website](https://mohrechi-portfolio.vercel.app/) - [Github](https://github.com/f-mohrechi) - [LinkedIn](https://www.linkedin.com/in/faeze-mohrechi/))
 
 ## Special Thanks
