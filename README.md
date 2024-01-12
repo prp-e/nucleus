@@ -10,7 +10,7 @@ _RESERVED_
 
 | Model | Notebook |
 |:------------------------:|:------------------------------------------------:|
-|[Nucleus 1B]()| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prp-e/nucleus/blob/main/nucleus_1b_inference.ipynb)|
+|[Nucleus 1B Alpha1](https://huggingface.co/NucleusOrg/Nucleus-1B-alpha-1)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prp-e/nucleus/blob/main/nucleus_1b_inference.ipynb)|
 ## Reproducability
 
 ## Donations
