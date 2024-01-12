@@ -1,6 +1,8 @@
 # Nucleus : Small Language Models 
 
-_RESERVED_
+__Nucleus__ is a small language model, and it's based on _Mistral_. Yes, you read it right. It's based on Mistral's architecture and has only 1 billion parameters (or according to our calculations 1.13 billion parameters). Since we already have good SLMs out there such as RWKV (I guess they even have a 300 million parameters model which has good performance), StableLM, TinyLLaMa and Phi, it was a good time to bring a Mistral based SLM to the table as well. 
+
+Of course Nuclues is still in its alpha steps, but it has very good potentials. If you have any questions and ideas, feel free to open an issue to this repository or our repository at HuggingFace.
 
 <p align="center">
     <img src="nucleus-logo.png" width=256 height=256>
