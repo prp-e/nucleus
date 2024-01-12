@@ -23,11 +23,13 @@ We train and make these models with personal money. We need investment and fundi
 ### USDT (TRC20)
 
 ```
+TUPW5xX4NJeoBrvX6J9ipifXUyYcXQHGBr
 ```
 
 ### USDT (ERC20)
 
 ```
+0xf6c4e2929d25e652299102630e4E7A75dEc9aa5b
 ```
 
 ### TRX (Tron)
