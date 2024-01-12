@@ -16,7 +16,7 @@ Of course Nuclues is still in its alpha steps, but it has very good potentials. 
 
 ## Reproducibility
 
-All weights are available at [HuggingFace](https://huggingface.co/NucleusOrg/Nucleus-1B-alpha-1) and using proper mistral training setup, can be reproduced. Also, we suggest you study our [model card]() as well.
+All weights are available at [HuggingFace](https://huggingface.co/NucleusOrg/Nucleus-1B-alpha-1) and using proper mistral training setup, can be reproduced. Also, we suggest you study our [model card](card.md) as well.
 
 ## Donations
 
